@@ -28,7 +28,9 @@
       <section class="mt-9">
         <h3 class="font-sans text-5xl font-semibold text-center">Latest Winners</h3>
         <div>
-          
+          <div class="">
+
+          </div>
         </div>
       </section>
     </main> 
